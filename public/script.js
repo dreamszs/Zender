@@ -10,8 +10,8 @@ const rankInput = document.getElementById('rank-input'); // Input for changing r
 const targetUserInput = document.getElementById('target-user-input'); // Input for target user
 const changeRankButton = document.getElementById('change-rank-button'); // Button for changing rank
 
-// WebSocket connection
-const socket = new WebSocket('wss://f2a0-143-207-204-44.ngrok-free.app');
+// WebSocket connection - Updated to Render URL
+const socket = new WebSocket('wss://zender-0e31.onrender.com'); // Use your Render WebSocket URL here
 
 // Check if UUID exists in localStorage; if not, create one
 let uuid = localStorage.getItem('uuid');
