@@ -29,9 +29,3 @@ Z̤̈ë̤n̤̈d̤̈ë̤r̤̈
 ̸Z̸e̸n̸d̸e̸r
 ጊቿክዕቿዪ
 乙乇刀d乇尺
-Zender
-Zender
-Zender
-Zender
-Zender
-Zender
